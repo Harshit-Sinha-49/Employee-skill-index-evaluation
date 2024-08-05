@@ -13,10 +13,10 @@ By leveraging this dashboard, the organization aims to gain insights into employ
    - Provides a summary of employee skill index across all products.
    - Includes key metrics such as average skill index, total employees evaluated.
    - Offers a comparison of skill index between different product categories.
-2. **2.	Product-wise Skill Index Analysis:**
+2. **Product-wise Skill Index Analysis:**
    - Visualizes employee skill index for each product category (deposits, assets, fees, SES).
    - Enables users to identify strengths and weaknesses in employee proficiency across different product lines.
-3. **3.	Sub-product Performance Analysis:**
+3. **Sub-product Performance Analysis:**
    - Provides detailed insights into employee performance for each sub-product.
    - Allows users to identify top performers, areas for improvement, and training needs at a granular level.
 
