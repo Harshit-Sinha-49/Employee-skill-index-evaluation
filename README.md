@@ -6,6 +6,7 @@
 ## Description-
 Develop a sophisticated skill index dashboard in Power BI to evaluate the performance of employees across four key products: deposits, assets, fees, and SES. Each product category encompasses various sub-products. The dashboard will provide a comprehensive analysis of employee proficiency and effectiveness in handling these products and their respective sub-products.
 <br>
+<br>
 By leveraging this dashboard, the organization aims to gain insights into employee skill levels, identify areas for improvement, and optimize the workforce to enhance overall productivity and performance across the product portfolio. This tool will enable data-driven decisions regarding skill development and resource allocation, ultimately driving business growth and success.
 
 ## Dashboard Components-
